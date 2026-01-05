@@ -1,38 +1,32 @@
 ---
-title: "Steelhead Eyes and Ears"
+title: "BIOE 176 - Data Science for Ecology and Evolutionary Biology"
 author: "Ward, A."
 date: "`r Sys.Date()`"
 output: html_document
 ---
 
-# Steelhead Eyes and Ears
-Dissertation Ch. 1
-
 ## Project Overview
 
-This project includes data analysis for eye lenses and otoliths from hatchery caught steelhead (O. mykiss) from 2021, 2022 and 2024, in an attempt to understand the food web and migration dynamics most contributing to thiamine deficiency complex in California steelhead.
-
+This project includes data analysis and homeowkr for BIOE 176. This will include homeowrk, project, outlines, etc.
 ---
 
 ## Folder Structure
 
-When you create a new project using this template, the following directory structure will be created:
-
-/SteelheadEyesandEars/
+/BIOE 176 DataScience4EEB/
 ├── data/ # Raw and processed data
 ├── scripts/ # R scripts and RMarkdown files
 ├── figures/ # Output plots and figures
 ├── outputs/ # Results, tables, and exports
 ├── docs/ # Documentation and notes
 ├──README.rmd/ #Project description file
-└── SteelheadEyesandEars.Rproj # RStudio project file
+└── BIOE 176 DataScience4EEB.Rproj # RStudio project file
 
 
 ## Author
 
 [Ward, A.]  
 [abeward@ucsc.edu]  
-[11/12/2025]
+[1/5/2026]
 
 ---
 
