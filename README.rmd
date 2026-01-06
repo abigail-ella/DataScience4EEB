@@ -7,7 +7,7 @@ output: html_document
 
 ## Project Overview
 
-This project includes data analysis and homeowkr for BIOE 176. This will include homeowrk, project, outlines, etc.
+This project includes data analysis and homework for BIOE 176. This will include homework, project, outlines, etc.
 ---
 
 ## Folder Structure
